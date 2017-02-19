@@ -1,3 +1,4 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 # Upcoming Troop 226 Events
 Tuesday is Dutch Ovens!
 ![GitHub Logo](http://ecx.images-amazon.com/images/I/41IJrXYa-XL._SY300_.jpg)
