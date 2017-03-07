@@ -1,10 +1,34 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 # Upcoming Troop 226 Events
-Tuesday is Dutch Ovens!
-![GitHub Logo](http://ecx.images-amazon.com/images/I/41IJrXYa-XL._SY300_.jpg)
+## Camping Checklist
+###_[10 essentials:](http://boyslife.org/outdoors/outdoorarticles/6976/scout-outdoor-essentials-checklist/)_
+- [ ] Pocketknife or multitool
+- [ ] First aid kit
+- [ ] Extra clothing
+- [ ] Rain Gear
+- [ ] Flashlight
+- [ ] Trailfood
+- [ ] Water
+- [ ] Matches and/or firestarter
+- [ ] Sun Protection
+- [ ] Map and compass
 
-Learn more about Dutch Ovens [here](https://en.wikipedia.org/wiki/Dutch_oven)
+### _Hygiene (Keeping clean):_
+- [ ] Toothbrush and toothpaste
+- [ ] Dental floss
+- [ ] Hand sanatizer
+
+### _Extras:_
+- [ ] Camera
+- [ ] Watch
+- [ ] Sunglasses
+- [ ] Fishing gear
+- [ ] Glasses repair kit
+- [ ] Insect repellent
+- [ ] Binoculars
+- [ ] Book
+
 
 Quote From Robert Braden-Powell:
 
-> No one can pass through life, any more than he can pass through a bit of country, without leaving tracks behind, and those tracks may often be helpful to those coming after him in finding their way
+> A week of camp life is worth six months of theoretical teaching in the meeting room.
